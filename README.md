@@ -1,4 +1,4 @@
-# 📋 To-do List – Missão 1: Engenharia de Software
+# 📋 To-do List – Missão 1: Engenharia de Software - Centro de Informática
 
 ## 🔗 Informações do Projeto
 
@@ -6,6 +6,10 @@
 [https://lovable.dev/projects/ccadef83-6d2c-4f01-9a82-f6237dc753d8](https://lovable.dev/projects/ccadef83-6d2c-4f01-9a82-f6237dc753d8)
 
 Testando e praticando o front-end usando Lovable
+
+Repositório de referência: https://github.com/arthurbm/frontend-react-ess
+Repositório de vibe coding: https://github.com/bomday/vibe-coding-prototyping-guide?tab=readme-ov-file
+Figma do projeto: https://www.figma.com/proto/FaaZcMlTr1jPz6Lr8v0t0q/Desafio-React?node-id=0-1&t=fjmn6DZW1Y30n3JJ-1
 
 ---
 
