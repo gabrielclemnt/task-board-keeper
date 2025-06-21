@@ -5,6 +5,8 @@
 **URL do projeto no Lovable:**  
 [https://lovable.dev/projects/ccadef83-6d2c-4f01-9a82-f6237dc753d8](https://lovable.dev/projects/ccadef83-6d2c-4f01-9a82-f6237dc753d8)
 
+Testando e praticando o front-end usando Lovable
+
 ---
 
 ## ✏️ Como posso editar este código?
