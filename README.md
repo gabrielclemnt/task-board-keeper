@@ -13,27 +13,27 @@ Existem várias formas de editar esta aplicação:
 
 ### ✅ Usando o Lovable
 
-Basta acessar o [Projeto no Lovable](https://lovable.dev/projects/ccadef83-6d2c-4f01-9a82-f6237dc753d8) e utilizar os prompts.  
-Todas as alterações feitas por lá serão automaticamente **enviadas para este repositório**.
+Acesse diretamente o [Projeto no Lovable](https://lovable.dev/projects/ccadef83-6d2c-4f01-9a82-f6237dc753d8) e utilize os prompts.  
+As alterações feitas no Lovable serão automaticamente **enviadas para este repositório**.
 
-### 💻 Usando sua IDE local
+### 💻 Usando seu editor de código (IDE) preferido
 
-Você pode clonar o repositório e trabalhar localmente. As alterações feitas localmente podem ser enviadas (push) para refletir também no Lovable.
+Você pode clonar este repositório e trabalhar localmente. Alterações feitas localmente também serão refletidas no Lovable ao fazer push.
 
-> **Pré-requisitos**:  
-> Ter o [Node.js](https://nodejs.org/) e o npm instalados (recomendado via [nvm](https://github.com/nvm-sh/nvm#installing-and-updating)).
+> **Pré-requisitos**: Ter o **Node.js** e o **npm** instalados.  
+> Recomendado instalar com o [nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
 #### Passo a passo:
 
-```bash
-# 1. Clone o repositório
-git clone <URL_DO_SEU_REPOSITÓRIO>
+```sh
+# Passo 1: Clone o repositório usando a URL do GitHub.
+git clone <SUA_URL_DO_REPOSITÓRIO>
 
-# 2. Acesse a pasta do projeto
-cd <NOME_DA_PASTA>
+# Passo 2: Acesse a pasta do projeto.
+cd <NOME_DA_PASTA_DO_PROJETO>
 
-# 3. Instale as dependências
+# Passo 3: Instale as dependências.
 npm install
 
-# 4. Inicie o servidor de desenvolvimento
+# Passo 4: Inicie o servidor de desenvolvimento com recarregamento automático.
 npm run dev
